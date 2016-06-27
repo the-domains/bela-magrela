@@ -1,4 +1,3 @@
-layout_spectrum: 0.5334868612699211
 typography_spectrum: 0.7616479378193617
 color:
   brandStrength: 0.5602502007968724
@@ -11,4 +10,9 @@ color:
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
+layout_spectrum: 0.5334868612699211
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/077ff039-65a9-4b27-afe9-cf6f12633944.jpg
 name: Bela Magrela
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e1a3ee0-3753-4fd0-97fc-20f32ac26996.ico
