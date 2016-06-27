@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/50327820'
 title: Um País Pecuário - Minerva Foods
-datePublished: '2016-06-27T17:39:44.555Z'
-dateModified: '2016-06-27T17:38:59.070Z'
+datePublished: '2016-06-27T17:39:45.763Z'
+dateModified: '2016-06-27T17:38:36.472Z'
 starred: false
 sourcePath: _posts/2016-06-27-um-pais-pecuario-minerva-foods.md
 inFeed: true
